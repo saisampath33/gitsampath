@@ -13,5 +13,5 @@ console.log('Arrow function - Difference:',difference);
 
 //error handling
 try{
-    //code that may throw
+    //code that may throw.
 }
