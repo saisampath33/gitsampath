@@ -7,4 +7,4 @@ let inter = setInterval(delayedFunction,1000);
 
 setTimeout(()=>{
     clearInterval(inter);
-}, 2000);
+}, 3000);
